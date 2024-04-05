@@ -1,0 +1,13 @@
+package com.lucasgariador.springbootwebchr;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringbootWebdbApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
